@@ -1,0 +1,7 @@
+movie-db:
+  api-key: "6dc646632d1c11debbc7e874ea32f797"
+  base-url: "https://api.themoviedb.org/3"
+  image-base-url: "https://image.tmdb.org/t/p/w500"
+  backdrop-base-url: "https://image.tmdb.org/t/p/original"
+server:
+  port: 8080
