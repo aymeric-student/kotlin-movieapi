@@ -4,6 +4,7 @@ import com.votybe.movie.config.MovieDbConfig
 import org.springframework.stereotype.Service
 import org.springframework.web.client.RestTemplate
 
+
 @Service
 class MovieService(
     private val restTemplate: RestTemplate,
